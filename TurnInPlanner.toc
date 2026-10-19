@@ -1,0 +1,15 @@
+## Interface: 11200
+## Title: TurnInPlanner
+## Notes: Generic turn-in cost planner for Turtle WoW
+## Author: OpenAI Codex
+## Version: 1.0.0
+## OptionalDeps: aux-addon
+## SavedVariables: TurnInPlannerDB
+
+TurnInPlanner.lua
+localization.cn.lua
+datasets.lua
+price.lua
+solver.lua
+scan.lua
+ui.lua
